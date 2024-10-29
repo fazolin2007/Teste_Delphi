@@ -1381,20 +1381,6 @@ object frmPrincipal: TfrmPrincipal
     Columns = <
       item
         Expanded = False
-        FieldName = 'CODIGO'
-        Title.Caption = 'C'#243'd'
-        Width = 40
-        Visible = True
-      end
-      item
-        Expanded = False
-        FieldName = 'CODPED'
-        Title.Caption = 'Ped'
-        Width = 40
-        Visible = True
-      end
-      item
-        Expanded = False
         FieldName = 'CODPROD'
         Title.Caption = 'C'#243'd. Prod.'
         Visible = True
@@ -1402,7 +1388,7 @@ object frmPrincipal: TfrmPrincipal
       item
         Expanded = False
         FieldName = 'PRODUTO'
-        Width = 240
+        Width = 280
         Visible = True
       end
       item
